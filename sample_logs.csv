@@ -1,0 +1,5 @@
+timestamp,level,message
+2025-02-01 10:00:01,INFO,Service started successfully
+2025-02-01 10:00:05,ERROR,Failed to connect to database
+2025-02-01 10:00:10,INFO,Request processed in 123ms
+2025-02-01 10:00:15,WARN,High memory usage detected
